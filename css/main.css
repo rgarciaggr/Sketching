@@ -1,0 +1,137 @@
+
+
+.columnaMenu{
+    margin-top: 65px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    float: left;
+    width: 14%;
+    height: 100%;
+    text-align: justify;
+    position: fixed;
+}
+
+.columnaMain{
+
+    padding: 5px;
+    margin-top: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: right;
+    width: 82%;
+    min-height: 800px;
+    text-align: justify;
+    background-color: lightgray;
+}
+
+.columnaMainLeft{
+    padding: 10px;
+    margin: auto;
+    float: left;
+    width: 45%;
+    text-align: justify;
+}
+
+.columnaMainRight{
+    padding: 10px;
+    margin: auto;
+    float: right;
+    width: 45%;
+    align-content: center;
+    text-align: justify;
+}
+
+.columnaPostLeft{
+    padding: 10px;
+    margin: auto;
+    float: left;
+    width: 66%;
+    align-content: center;
+    text-align: justify;
+}
+
+.columnaPostRight{
+    padding: 10px;
+    margin: auto;
+    float: right;
+    width: 33%;
+    align-content: center;
+    text-align: justify;
+}
+
+.columnaUploadGallery{
+    padding: 10px;
+    padding-top: 50px;
+    background-color: lightgray;
+    margin: auto;
+    align-self: center;
+    width: 50%;
+    align-content: center;
+    text-align: justify;
+}
+
+.tip{
+    background-color: rgba(215,246,246, 0.8);
+    padding: 5px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+.cursor-pointer{
+    cursor: pointer !important;
+}
+
+.estado-cancel{
+    color: red;
+    font-weight: bold;
+}
+
+.estado-payed{
+    color: green;
+    font-weight: bold;
+}
+
+.estado-pending{
+    color: black;
+    font-weight: bold;
+}
+
+div {
+    margin: auto;
+    display: block;
+}
+
+
+.lock:hover{
+    background-color:rgba(0,0,0,0.7);
+}
+
+
+.row-image{
+    width: 18%;
+    float: left;
+    padding: 5px;
+    margin: 5px !important;
+    border-bottom: 20px !important;
+}
+
+.relaxing-pink{
+    background-color: #edd1eb !important;
+}
+.relaxing-blue{
+    background-color: #d1ebed !important;
+}
+.relaxing-orange{
+    background-color: #edd3d1 !important;
+}
+.relaxing-green{
+    background-color: #d1edd3 !important;
+}
+.relaxing-grey{
+    background-color: #f4f7f6 !important;
+}
+.relaxing-red{
+     background-color: #c5180a !important;
+ }
+
